@@ -19,4 +19,4 @@ start esx_dmvschool
 
 [ORIGINAL FILE]
 
-https://github.com/ESX-Org/esx_dmvschool/releases/latest
+https://github.com/ESX-Org/esx_dmvschool/releases/latest / Discontinued
