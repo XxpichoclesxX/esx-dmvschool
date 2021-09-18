@@ -5,7 +5,7 @@ FXServer ESX DMV SChool
 
 1) Instalation
 
-- Download https://github.com/XxpichoclesxX/esx-dmvschool/edit/main/esx_dmvschool-spanish
+- Download https://github.com/XxpichoclesxX/esx-dmvschool
 - Put it in [esx] directory
 
 
